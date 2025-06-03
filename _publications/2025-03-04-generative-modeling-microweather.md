@@ -2,7 +2,7 @@
 title: "Generative Modeling of Microweather Wind Velocities for Urban Air Mobility"
 collection: publications
 category: conferences
-permalink: /publication/2025-3-4-generative-modeling-microweather
+permalink: /publication/2025-03-04-generative-modeling-microweather
 date: 2025-03-04
 venue: 'IEEE Aerospace Conference'
 paperurl: 'http://tristan-shah.github.io/files/Generative Modeling of Microweather Wind Velocities for Urban Air Mobility.pdf'

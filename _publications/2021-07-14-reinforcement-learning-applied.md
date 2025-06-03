@@ -2,7 +2,7 @@
 title: "Reinforcement Learning Applied to Metamaterial Design"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-7-14-paper-title-number-1
+permalink: /publication/2021-07-14-reinforcement-learning-applied
 date: 2021-07-14
 venue: 'The Journal of the Acoustical Society of America'
 paperurl: 'http://tristan-shah.github.io/files/Reinforcement learning applied to metamaterial design.pdf'
