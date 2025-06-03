@@ -47,7 +47,7 @@ $$\mathbb{E}[x_T] = \mathbb{E}[x_0] + \mathbb{E}[\sum_{t=1}^T \epsilon_t]$$
 $$\mathbb{E}[x_T] = \mu$$
 
 Assuming
-$$\textrm{Cov}(x_0, \epsilon_t) = 0,\quad \forall t\in[1,T].$$ 
+$$\textrm{Cov}(x_0, \epsilon_t) = 0,\quad \forall t \in[1,T].$$ 
 
 Also assuming
 $$\textrm{Cov}(\epsilon_a, \epsilon_b) = 0,\quad \forall a, b\in[1,T].$$
