@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Welcome! I'm a PhD student in Computer Science at **Texas Tech University**, working in the Computational Intelligence, Control, and Information Lab (CI²) under the supervision of [Dr. Stas Tiomkin](https://scholar.google.co.il/citations?user=sDfZnUcAAAAJ&hl=en).
+Welcome! I'm a PhD student in Computer Science at **Texas Tech University**, working in the Computational Intelligence, Control, and Information Lab (CI²) under the supervision of [Dr. Stas Tiomkin](https://www.depts.ttu.edu/cs/faculty/Stas_tiomkin/stastiomkin.php).
 
 My research focuses on **intrinsic motivation in dynamical systems**, with applications in **multi-agent coordination**, **robotics**, and **generative modeling**. I'm especially interested in how principles from control theory, information theory, and learning can guide intelligent behavior in uncertain, high-dimensional environments.
 
