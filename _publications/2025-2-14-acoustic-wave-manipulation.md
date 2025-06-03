@@ -1,7 +1,7 @@
 ---
 title: "Acoustic Wave Manipulation Through Sparse Robotic Actuation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-2-14-acoustic-wave-manipulation
 date: 2025-02-14
 venue: 'IEEE International Conference on Robotics and Automation'
