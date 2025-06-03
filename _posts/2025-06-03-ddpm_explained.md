@@ -8,7 +8,9 @@ tags:
 
 There are so many resources on the internet which make an attempt to explain Denoising Diffusion Probabilistic Models (DDPM). However I feel that many of these resources do not go into detail on the derivation of the algorithm. In this post I will explain every part of the DDPM algorithm so that you understand how the final simple regression objective is obtained.
 
+
 The core idea of diffusion is to structure the process of sampling as a dynamical system. Generating a sample from a prior noise distribution $p_T(x_T) := \mathcal{N}(x_T; \mathbf{0}, \mathbf{I})$ is done by iteratively sampling a learned probabilistic model $p_\theta(x_{t-1} | x_t)$.
+
 
 To learn this reverse process model a forward process is defined. A requirement of the forward process is to convert any distribution into a standard normal distribution. Fortunately this is not too difficult because according to the central limit theorem the convolution of a number of density functions tends towards the normal distribution. 
 
