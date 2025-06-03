@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is my front page
+Welcome! I'm a PhD student in Computer Science at **Texas Tech University**, working in the Computational Intelligence, Control, and Information Lab (CI²) under the supervision of [Dr. Stas Tiomkin](https://scholar.google.co.il/citations?user=sDfZnUcAAAAJ&hl=en).
 
-Heading 1
-======
-Example text
+My research focuses on **intrinsic motivation in dynamical systems**, with applications in **multi-agent coordination**, **robotics**, and **generative modeling**. I'm especially interested in how principles from control theory, information theory, and learning can guide intelligent behavior in uncertain, high-dimensional environments.
 
-Heading 2
-======
-Example text
+---
 
-Line Heading
-------
-Example text
+## 📜 Background
+
+I'm currently supported by the prestigious **Koh Family Doctoral Fellowship**, awarded to two PhD Students in the Whitacre Collage of Engineering.
+
+I’ve also worked with NASA on to support the development of urban air mobility systems using generative AI.
