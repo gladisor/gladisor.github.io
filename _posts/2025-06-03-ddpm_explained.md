@@ -4,7 +4,6 @@ date: 2025-06-03
 permalink: /posts/ddpm_explained/
 tags:
   - Generative AI
-  - Diffusion
 ---
 
 In progress...
