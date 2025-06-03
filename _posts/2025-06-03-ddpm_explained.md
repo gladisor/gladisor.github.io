@@ -6,7 +6,7 @@ tags:
   - Generative AI
 ---
 
-# Motivation
+## Motivation
 
 There are so many resources on the internet which make an attempt to explain Denoising Diffusion Probabilistic Models (DDPM). However I feel that many of these resources do not go into detail on the derivation of the algorithm. In this post I will explain every part of the DDPM algorithm so that you understand how the final simple regression objective is obtained.
 
@@ -19,7 +19,7 @@ $$p_\theta(x_{t-1} | x_t).$$
 
 To learn this reverse process model a forward process is defined. A requirement of the forward process is to convert any distribution into a standard normal distribution. Fortunately this is not too difficult because according to the central limit theorem the convolution of a number of density functions tends towards the normal distribution. 
 
-# Simple Forward Process
+## Simple Forward Process
 
 Consider a forward process:
 $$x_t = x_{t-1} + \epsilon_t, \qquad \epsilon_t \sim\mathcal{N}(\mathbf{0}, \sigma\mathbf{I}).$$
@@ -66,5 +66,5 @@ $$x_T \sim \mathcal{N}(\mu, \Sigma_{x_0}+T\sigma^2\mathbf{I}).$$
 
 The issue with this forward process is that we would like to transform any distribution into an isotropic gaussian with zero mean and identity covariance matrix.
 
-# DDPM Forward Process
+## DDPM Forward Process
 
