@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "PhD Student"
+  pronouns         : 
+  bio              : "Interested in intrinsic motivation in swarms and collectives."
   location         : "Texas"
   employer         : "Texas Tech University"
   uri              : # URL
