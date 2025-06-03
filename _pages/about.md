@@ -17,4 +17,4 @@ My research focuses on **intrinsic motivation in dynamical systems**, with appli
 
 I'm currently supported by the prestigious **Koh Family Doctoral Fellowship**, awarded to two PhD Students in the Whitacre Collage of Engineering.
 
-I’ve also worked with NASA on to support the development of urban air mobility systems using generative AI.
+I’ve also worked with NASA to support the development of urban air mobility systems using generative AI.
