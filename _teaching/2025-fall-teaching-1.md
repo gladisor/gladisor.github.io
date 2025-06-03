@@ -7,4 +7,3 @@ venue: "Texas Tech University, Computer Science"
 date: 2025-08-20
 location: "Lubbock, Texas"
 ---
-CS 4331
