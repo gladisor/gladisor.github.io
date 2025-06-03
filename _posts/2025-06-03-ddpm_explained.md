@@ -39,25 +39,28 @@ will be gaussian with some mean and covariance.
 
 $$x_T = x_0 + \sum_{t=1}^T \epsilon_t$$
 
-The mean of $x_T$:
+The mean of 
+$$x_T$$ 
 
 $$\mathbb{E}[x_T] = \mathbb{E}[x_0] + \mathbb{E}[\sum_{t=1}^T \epsilon_t]$$
 
 $$\mathbb{E}[x_T] = \mu$$
 
 Assuming
-
 $$\textrm{Cov}(x_0, \epsilon_t) = 0,\quad \forall t\in[1,T].$$ 
 
-Also assuming 
-
+Also assuming
 $$\textrm{Cov}(\epsilon_a, \epsilon_b) = 0,\quad \forall a, b\in[1,T].$$
 The covariance of 
 $$x_T$$
 
 $$\textrm{Cov}(x_T) = \Sigma_{x_0} + T\sigma^2\mathbf{I}.$$
 
-So under the simple forward process that I have shown here we can convert any distribution over $x_0$ into a gaussian distribution over $x_T$ where:
+So under the simple forward process that I have shown here we can convert any distribution over 
+$$x_0$$
+into a gaussian distribution over 
+$$x_T$$
+where:
 
 $$x_T \sim \mathcal{N}(\mu, \Sigma_{x_0}+T\sigma^2\mathbf{I}).$$
 
