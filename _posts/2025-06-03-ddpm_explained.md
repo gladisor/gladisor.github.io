@@ -1,7 +1,7 @@
 ---
 title: 'Denoising Diffusion Probabilistic Models Explained'
 date: 2025-06-03
-permalink: /posts/2025-06-03-ddpm_explained/
+permalink: /posts/ddpm_explained/
 tags:
   - Generative AI
 ---
